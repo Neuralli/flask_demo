@@ -1,0 +1,2 @@
+INFO _internal.py:113  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:113 127.0.0.1 - - [09/Sep/2020 08:57:40] "[33mGET / HTTP/1.1[0m" 404 -

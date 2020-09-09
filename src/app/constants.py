@@ -1,0 +1,8 @@
+# 输入错误最大次数
+LOGIN_ERROR_MAX_TIMES = 5
+
+# 文件上传的大小限制
+MAX_CONTENT_LENGTH = 1024 * 1024
+
+# 默认的精选文章数量
+DEFAULT_ARCTLE_NUMS = 5
